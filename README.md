@@ -1,1 +1,1 @@
-# RESNET18---Chest-XRAY-Classfication
+# Chest XRAY Classfication using RESNET-18
